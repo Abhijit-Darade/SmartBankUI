@@ -9,7 +9,7 @@
 
 ## Banking Portal API
 
-- [https://github.com/abhi9720/BankingPortal-API](https://github.com/abhi9720/BankingPortal-API)
+- [https://github.com/Abhijit-Darade/SmartBankBackend/tree/master](https://github.com/Abhijit-Darade/SmartBankBackend/tree/master)
 
 The Banking Portal API provides a set of endpoints for managing user accounts, fund transfers, and transactions. This project aims to facilitate secure and efficient banking operations for users.
 
@@ -43,7 +43,7 @@ The Banking Portal API provides a set of endpoints for managing user accounts, f
 
 ## Installation and Setup
 
-1. Run the [BankingPortal-API](https://github.com/abhi9720/BankingPortal-API).
+1. Run the [BankingPortal-API](https://github.com/Abhijit-Darade/SmartBankBackend/tree/master).
 
 2. Clone this repository to your local machine:
 
